@@ -32,7 +32,7 @@ const Navbar = () => {
     <img src={Logo} alt="logo" className='w-10' />
     <span className='text-2xl font-bold'>Interior</span>
     </div>
-    <div>
+    <div className='hidden md:block'>
         {NavLinks.map((link) =>{
             return(
                 <a href={link.link} className='mx-4'>
@@ -42,7 +42,7 @@ const Navbar = () => {
         })}
     </div>
     <div>
-        <button className='btn'>Try for free</button>
+        <button className='text-sm lg:text-base border-[1px] border-black px-4 py-2 shadow-[5px_5px_0_0_#000] hover:shadow-none transition-all duration-300'>Try for free</button>
     </div>
    </div>
    </>
