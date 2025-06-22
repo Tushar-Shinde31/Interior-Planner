@@ -1,6 +1,6 @@
 # 🏡 Interior Planner
 
-A sleek **3D room layout planner** built with React, enabling users to design and visualize interior spaces seamlessly. Hosted on Netlify at [interiorplanner.netlify.app](https://interiorplanner.netlify.app/).
+A sleek **3D room layout planner** built with React, enabling users to design and visualize interior spaces seamlessly. Hosted on Netlify.
 
 ## 🔍 Live Demo
 
