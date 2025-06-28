@@ -37,8 +37,7 @@ const Banner = () => {
               whileInView="animate"
               className="text-gray-500 text-sm leading-7"
             >
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit
-              earum accusantium tempore nam aliquid{" "}
+              Our experienced team of interior designers collaborates to bring your vision to life, combining creativity with technical expertise to deliver exceptional results that exceed expectations.
             </motion.p>
             <div>
               <motion.button

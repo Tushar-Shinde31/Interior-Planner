@@ -24,9 +24,7 @@ const Banner2 = () => {
               whileInView="animate"
               className="text-gray-500 text-sm leading-7"
             >
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit
-              earum accusantium tempore nam adipisicing elit. Suscipit earum
-              accusantium tempore nam aliquid{" "}
+              Transform your living room into a stunning, functional space with our expert design approach. We blend contemporary trends with timeless elegance to create interiors that reflect your unique style and lifestyle needs.
             </motion.p>
             <motion.div
               variants={SlideUp(0.6)}

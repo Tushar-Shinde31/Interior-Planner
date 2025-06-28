@@ -5,26 +5,26 @@ import { SlideLeft, SlideUp } from "../../animation/animate";
 const TestimonialData = [
   {
     id: 1,
-    name: "John Doe",
+    name: "Sarah Johnson",
     designation: "Designer",
     img: "https://i.pravatar.cc/300?img=1",
-    text: "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    text: "The interior design team transformed our living room beyond our expectations. Their attention to detail and creative vision made our space feel both luxurious and comfortable. Highly recommend their services!",
     delay: 0.2,
   },
   {
     id: 2,
-    name: "Alex",
+    name: "Tushar",
     designation: "Developer",
     img: "https://i.pravatar.cc/300?img=2",
-    text: "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    text: "Working with this team was an absolute pleasure. They understood our modern aesthetic perfectly and delivered a stunning home office that boosts my productivity. The quality of materials and craftsmanship is outstanding.",
     delay: 0.4,
   },
   {
     id: 3,
-    name: "George",
+    name: "Emily Rodriguez",
     designation: "Manager",
     img: "https://i.pravatar.cc/300?img=3",
-    text: "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    text: "From concept to completion, the entire process was seamless. They redesigned our kitchen with such expertise that it now feels like the heart of our home. The team's professionalism and creativity exceeded all expectations.",
     delay: 0.6,
   },
 ];

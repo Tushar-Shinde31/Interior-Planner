@@ -19,8 +19,7 @@ const Newsletter = () => {
         whileInView="animate"
         className="max-w-[300px] mx-auto text-gray-500 text-sm text-center"
       >
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed libero
-        doloremque ab eum!
+        Stay updated with the latest interior design trends, exclusive offers, and inspiring home transformation stories delivered to your inbox.
       </motion.p>
       {/* form here */}
       <motion.div

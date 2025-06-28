@@ -10,7 +10,7 @@ const ServiceCard = [
     id: 1,
     title: "Luxury Facilities",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit,Lorem ipsum dolor sit amet, consectetur",
+      "Experience premium interior design services with state-of-the-art facilities and expert craftsmanship that transforms your space into a luxurious haven.",
     icon: <FaVectorSquare />,
     link: "#",
     delay: 0.2,
@@ -19,7 +19,7 @@ const ServiceCard = [
     id: 2,
     title: "Quality Products",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit,Lorem ipsum dolor sit amet, consectetur",
+      "We source only the finest materials and furniture from trusted manufacturers, ensuring durability and timeless elegance in every project we undertake.",
     icon: <FaPenToSquare />,
     link: "#",
     delay: 0.4,
@@ -28,7 +28,7 @@ const ServiceCard = [
     id: 3,
     title: "Affordable Price",
     description:
-      "Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+      "Get exceptional interior design services at competitive prices. We offer flexible packages to suit every budget without compromising on quality or style.",
     icon: <BiSolidDollarCircle />,
     link: "#",
     delay: 0.6,
