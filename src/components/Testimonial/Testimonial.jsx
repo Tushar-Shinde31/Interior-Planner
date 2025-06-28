@@ -5,7 +5,7 @@ import { SlideLeft, SlideUp } from "../../animation/animate";
 const TestimonialData = [
   {
     id: 1,
-    name: "Sarah Johnson",
+    name: "Andrew Samson",
     designation: "Designer",
     img: "https://i.pravatar.cc/300?img=1",
     text: "The interior design team transformed our living room beyond our expectations. Their attention to detail and creative vision made our space feel both luxurious and comfortable. Highly recommend their services!",
