@@ -20,8 +20,8 @@ const Footer = () => {
               <img src={Logo} alt="" className="w-6" />
               <p className="text-xl font-semibold">Interior</p>
             </div>
-            <p>Greater Noida, Uttar Pradesh, India</p>
-            <p>@ 2024 TCJ All rights reserved</p>
+            <p>Paithan Gate, Chh.Sambhajinagar, Maharashtra, India</p>
+            <p>@ 2025 TS All rights reserved</p>
           </div>
           {/* Footer Link */}
           <div className="grid grid-cols-2 gap-3">
@@ -78,7 +78,7 @@ const Footer = () => {
 
         {/* bottom section */}
         <p className="text-center text-sm font-semibold  border-t-2 pt-5 mt-5">
-          &copy; 2023 TCJ. All rights reserved
+          &copy; 2025 TS. All rights reserved
         </p>
       </div>
     </motion.footer>
